@@ -1,4 +1,4 @@
-#DRIFT
+# DRIFT
 
 To launch the code you need to add your dataset in the folder DRIFT/dataset, and its preprocessing in DRIFT/Preprocess.py 
 
